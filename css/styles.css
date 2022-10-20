@@ -1,0 +1,7 @@
+.slide-50{
+    height: 400px;
+    overflow: hidden;
+}
+.carousel-caption{
+    top: 250px !important;
+}
